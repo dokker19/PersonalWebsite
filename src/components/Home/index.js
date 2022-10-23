@@ -3,7 +3,7 @@ import LogoTitle from '../../assets/images/myLogo.png'
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import {useEffect, useState} from 'react';
-import Logo from './Logo';
+//import Logo from './Logo';
 import { Loader } from 'react-loaders'
 
 
@@ -42,7 +42,7 @@ const Home = () => {
                 <h2>Johns Hopkins Engineering / CS / Frontend Developer</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
-            <Logo />
+            {/* <Logo /> */}
         </div>
         <Loader type="pacman" />
         </>
