@@ -7,7 +7,6 @@ import {useEffect, useState} from 'react';
 import { Loader } from 'react-loaders'
 
 
-
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = ['D', 'o', 'k', 'y', 'u', 'n', 'g']
