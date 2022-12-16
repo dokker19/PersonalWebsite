@@ -1,33 +1,16 @@
 .solid-logo{
   position: absolute;
-  top: 200px;
-  left: 550px;
-  width: 200px;
-  transform: rotateZ(30deg) !important;
+  top: 80px;
+  left: 500px;
+  width: 400px;
+  height: auto;
+  opacity: 0.65;
 }
-
-// .logo-container {
-//   z-index: 0;
-//   width: 400px;
-//   height: 609px;
-//   opacity: 0;
-//   position: absolute;
-//   top: 0;
-//   right: 15%;
-//   bottom: 0;
-//   left: auto;
-//   margin: auto;
-
-//   .solid-logo {
-//     position: absolute;
-//     top: 100px;
-//     right: auto;
-//     bottom: auto;
-//     left: 0;
-//     margin: auto;
-//     width: 100%;
-//     opacity: 1;
-//     transform: rotateZ(30deg) !important;
-//     z-index: 1;
-//   }
-// }
+.solid-logo2{
+  position: absolute;
+  top: 350px;
+  left: 540px;
+  width: 300px;
+  height: auto;
+  opacity: 0.65;
+}
