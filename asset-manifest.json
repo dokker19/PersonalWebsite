@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/PersonalWebsite/static/css/main.40d7a0ff.css",
+    "main.js": "/github.io/PersonalWebsite/static/js/main.7af0aebf.js",
+    "static/js/787.a2cb61a6.chunk.js": "/github.io/PersonalWebsite/static/js/787.a2cb61a6.chunk.js",
+    "static/media/myLogo.png": "/github.io/PersonalWebsite/static/media/myLogo.b10fe44e94d1932b60bd.png",
+    "static/media/helvetica-neu.ttf": "/github.io/PersonalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/dev.svg": "/github.io/PersonalWebsite/static/media/dev.f4c60c6a14f64f429c3d94f0fbc4b477.svg",
+    "static/media/LaBelleAurore.woff2": "/github.io/PersonalWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/coop.svg": "/github.io/PersonalWebsite/static/media/coop.9d1ef22b1f9751a1f150fa05024ad1ab.svg",
+    "static/media/CoolveticaRg-Regular.woff2": "/github.io/PersonalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/github.io/PersonalWebsite/index.html",
+    "main.40d7a0ff.css.map": "/github.io/PersonalWebsite/static/css/main.40d7a0ff.css.map",
+    "main.7af0aebf.js.map": "/github.io/PersonalWebsite/static/js/main.7af0aebf.js.map",
+    "787.a2cb61a6.chunk.js.map": "/github.io/PersonalWebsite/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d7a0ff.css",
+    "static/js/main.7af0aebf.js"
+  ]
+}
