@@ -35,7 +35,7 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a sopphomore at the Johns Hopkins University Whiting School of Engineering
+            I'm a Junior at the Johns Hopkins University Whiting School of Engineering
             majoring in Computer Science and Applied Mathematics & Statistics.
           </p>
           <p align="LEFT">
